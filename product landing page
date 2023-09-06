@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virago Smart Furniture</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <h1>Virago Smart Furniture</h1>
+        <p>The Future of Comfort & Style</p>
+        <a href="#pricing" class="cta-button">Get Yours Now</a>
+    </header>
+
+    <section id="features">
+        <h2>Key Features</h2>
+        <div class="feature">
+            <img src="https://th.bing.com/th/id/OIP.AL3cqCs8IlCz2vnW6_8KYgHaE7?pid=ImgDet&rs=1" alt="Smart Chair">
+            <h3>Luxury Comfort</h3>
+            <p>Experience cloud-like comfort with our ergonomic design. You won't believe you're sitting on a chair!</p>
+        </div>
+        <div class="feature">
+            <img src="https://th.bing.com/th/id/OIP.-f2Vc1mfsOU7tSHAU1sVDQHaJQ?pid=ImgDet&rs=1" alt="IoT Control">
+            <h3>IoT Integration</h3>
+            <p>Control your chair's recline, temperature, and lighting with your smartphone or voice commands. The future is here!</p>
+        </div>
+        <div class="feature">
+            <img src="https://th.bing.com/th/id/OIP.W1ioJq3mFfDHTc5ZuM_nzQHaDt?pid=ImgDet&rs=1" alt="Self-Massage">
+            <h3>Self-Massage</h3>
+            <p>Enjoy soothing massages tailored to your preferences while you relax. Say goodbye to stress!</p>
+        </div>
+    </section>
+
+    <section id="pricing">
+        <h2>Pricing</h2>
+        <div class="pricing-option">
+            <h3>Virago Smart Chair</h3>
+            <p>Only ₹10,000</p>
+            <ul>
+                <li>Luxury Comfort</li>
+                <li>IoT Integration</li>
+                <li>Self-Massage</li>
+                <li>Free Shipping</li>
+            </ul>
+            <a href="#" class="cta-button">Buy Now</a>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or want to place an order, feel free to contact us:</p>
+        <ul>
+            <li>Contact Name: Virago</li>
+            <li>Contact Number: 1234567898</li>
+            <li>Email: <a href="mailto:contactvirago@gmail.com">contactvirago@gmail.com</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Virago Smart Furniture</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
